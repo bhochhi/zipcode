@@ -1,0 +1,26 @@
+{
+  "name": "zipcode",
+  "version": "1.0.0",
+  "description": "Reusable react component for zipcode usecase.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhochhi/zipcode.git"
+  },
+  "keywords": [
+    "zipcode",
+    "validation",
+    "zipcode",
+    "input",
+    "form"
+  ],
+  "author": "@bhochhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhochhi/zipcode/issues"
+  },
+  "homepage": "https://github.com/bhochhi/zipcode#readme"
+}
